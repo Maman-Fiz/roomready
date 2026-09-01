@@ -6,8 +6,8 @@ Build demonstrable technical skills that can lead to paid remote work, initially
 
 ## Current Position
 
-**Lesson:** 1A — Git, GitHub and learning infrastructure  
-**Status:** Completed
+**Lesson:** 1B — Local development environment
+**Status:** In progress
 
 ## What I Have Learnt
 
