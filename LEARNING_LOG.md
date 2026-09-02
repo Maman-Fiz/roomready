@@ -7,7 +7,7 @@ Build demonstrable technical skills that can lead to paid remote work, initially
 ## Current Position
 
 **Lesson:** 1B — Local development environment
-**Status:** In progress
+**Status:** Completed
 
 ## What I Have Learnt
 
@@ -21,6 +21,9 @@ Build demonstrable technical skills that can lead to paid remote work, initially
 - Markdown is plain text containing formatting instructions; GitHub can render that Markdown into a formatted document.
 - A README is normally the introductory document for a repository.
 - Public and private repositories serve different purposes.
+- Cloning creates a local copy of a Git repository, including its files and commit history, that I can work on my computer.
+- `pwd` shows my current working directory, `ls` lists its contents, and `cd` changes directory.
+- `git status` shows the current state of my repository, including modified or staged files and whether my local branch is up to date with the remote branch.
 
 ## What I Can Demonstrate
 
